@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let a=+amount.value,c=+cycles.value;res.innerText='Total: $'+(a*c);}

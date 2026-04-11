@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let a=+amount.value,r=+rate.value;res.innerText='Converted: '+(a*r).toFixed(2);}

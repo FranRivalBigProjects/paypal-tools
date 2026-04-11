@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let a=+amount.value,f=+fee.value;res.innerText='Fee: $'+(a*f/100).toFixed(2);}
